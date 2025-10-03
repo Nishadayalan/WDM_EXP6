@@ -106,4 +106,4 @@ print(rank_df)
 
 ### Result:
 
-Thus, We had successfully implemented the "Information Retrieval Using Vector Space Model in Python."
+Thus, To implement Information Retrieval Using Vector Space Model in Python is implemented successfully .
